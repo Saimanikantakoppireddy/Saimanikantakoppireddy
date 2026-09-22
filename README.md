@@ -1,4 +1,22 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/02/02/51/62/1000_F_202516212_m7v0yJwPQENQedM8tmGCCPSalUxGwXPZ.jpg)
+Hi There👋
+
+🔭 I’m currently working on
+Building data analytics projects, AI/ML applications, and backend systems with real-world use cases.
+
+👯 I’m looking to collaborate on
+AI/ML, Data Analytics, automation, and open-source projects that solve practical problems.
+
+🤝 I’m looking for help with
+Improving my system design, advanced backend development, and building scalable production-ready applications.
+
+🌱 I’m currently learning
+Advanced Python, Machine Learning, Data Analytics, Power BI, cloud technologies, and backend development.
+
+💬 Ask me about
+Python, C++, Java, AI/ML, Data Analytics, Power BI, SQL, Excel, and problem solving.
+
+⚡ Fun fact
+I enjoy turning ideas into projects and learning new technologies by building things.
 
 <h1 align="center">
   <span style="color:#4a90e2;">Hi 👋, I'm Sai Manikanta Koppireddy</span>
